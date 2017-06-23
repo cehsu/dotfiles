@@ -1,5 +1,6 @@
 " Welcome to my .vimrc, make yourself at home
-" add to .bashprofile: alias svim='vim -u ~/.vimrc_simple'
+" add to .bashprofile: alias vim='vim -S ~/.vimrc'
+" add to .bashprofile: alias vi='vim -S ~/.vimrc'
  
 " Specify a directory for plugins (for Neovim: ~/.local/share/nvim/plugged)
 call plug#begin('~/.vim/plugged')
